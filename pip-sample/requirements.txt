@@ -19,7 +19,7 @@ gensim==4.3.2
 goose3==3.1.19
 xgboost==2.0.3
 openpyxl==3.1.2
-transformers==4.39.3
+transformers==4.48.0
 scipy==1.10.1
 keras==3.2.1
 tensorflow==2.16.1
